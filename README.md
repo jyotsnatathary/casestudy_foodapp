@@ -1,1 +1,1 @@
-# casestudy_foodapp
+# casestudy_foodapp_htmlandcss
